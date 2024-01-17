@@ -28,3 +28,4 @@ D:\mphasis\Phase4PracticeProjects\PracticeProject3\PracticeProject3Phase4\Practi
 D:\mphasis\Phase4PracticeProjects\PracticeProject3\PracticeProject3Phase4\PracticeProject3Phase4\obj\Debug\net6.0\PracticeProject3Phase4.pdb
 D:\mphasis\Phase4PracticeProjects\PracticeProject3\PracticeProject3Phase4\PracticeProject3Phase4\obj\Debug\net6.0\PracticeProject3Phase4.genruntimeconfig.cache
 D:\mphasis\Phase4PracticeProjects\PracticeProject3\PracticeProject3Phase4\PracticeProject3Phase4\obj\Debug\net6.0\ref\PracticeProject3Phase4.dll
+D:\mphasis\Phase4PracticeProjects\PracticeProject3\PracticeProject3Phase4\PracticeProject3Phase4\obj\Debug\net6.0\PracticeProject3Phase4.sourcelink.json
